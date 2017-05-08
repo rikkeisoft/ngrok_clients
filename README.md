@@ -11,7 +11,7 @@ Depends on your OS, execute this command:
 ./ngrok_darwin -subdomain <subdomain> -config=ngrok.conf <port>
 
 # Windows
-./ngrok_windows -subdomain <subdomain> -config=ngrok.conf <port>
+./ngrok_windows.exe -subdomain <subdomain> -config=ngrok.conf <port>
 ```
 
 ### Example
