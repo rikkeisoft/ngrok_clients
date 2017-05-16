@@ -5,7 +5,7 @@ Depends on your OS, execute this command:
 
 ```
 # Linux
-./ngrok -subdomain <subdomain> -config=ngrok.conf [<ip>:<port>|<port>]
+./ngrok_linux -subdomain <subdomain> -config=ngrok.conf [<ip>:<port>|<port>]
 
 # MacOS
 ./ngrok_darwin -subdomain <subdomain> -config=ngrok.conf [<ip>:<port>|<port>]
